@@ -1,14 +1,15 @@
-# Category | Project Name
+# Web | Home Cooking
 
 ## Goal
 
-[Description]
+Create a web site for your aunt.
 
 ## Content
 
-- [Page]
+- Description
+- Evaluation
 
-Website available at [link](www.mylink.com).
+Website available at [link](https://mihai-teaching.github.io/web_home-cooking/).
 
 ## Source
 
